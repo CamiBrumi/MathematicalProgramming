@@ -1,0 +1,18 @@
+# Borrar los anterior comandos en AMPL
+reset;
+
+# Cargar el modelo
+model prac.mod;
+
+# Cargar los datos
+data prac.dat;
+
+# Indicación a ampl de que se quiere utilizar como solver: CPLEX
+option solver './minos';
+
+#Resolver
+solve;
+
+# Mostrar los resultados
+display flux_1_n;
+display soluc;
