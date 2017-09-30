@@ -10,9 +10,13 @@ data prac.dat;
 # Indicación a ampl de que se quiere utilizar como solver: CPLEX
 option solver './minos';
 
-for{i in 1..n} {
+/*
 let ARC_ARTIF[1]:=-1;
-ARC_ARTIF[n]:=1;
+let ARC_ARTIF[n]:=1; 
+*/
+
+display ARC_ARTIF;
+
 
 #Resolver
 solve;

@@ -1,4 +1,4 @@
-#Problema de flux m�xim com a problema de flux de cost m�nim
+#Problema de flux maxim com a problema de flux de cost minim
 
 param n; #nodes
 set NODES :=1..n;
@@ -11,26 +11,12 @@ var soluc{i in ARCS}>=0,<=capacitat[i];
 
 param INCID{NODES,ARCS};
 
-param ARC_ARTIF{i in NODES}=0;
-
-
-/* ARC_ARTIF[i]:= -1 else if i == n then ARC_ARTIF[n]:= 1 else ARC_ARTIF[i]:=0;
-	}
-
-param zero_vector{NODES};
-for {i in NODES} zero_vector[i]
-param ARC_ARTIF {NODES};
-data;
-param ARC_ARTID:=NODES
-
-param ARC_ARTIF{i in NODES} if (i==1)
-
-*/
+#param ARC_ARTIF{i in NODES}=0;
+param ARC_ARTIF{NODES};
 
 
 
-
-#Funci� objectiu
+#Funcio objectiu
 
 var flux_1_n >=0;
 maximize flux_max:
