@@ -1,0 +1,13 @@
+# Borrar los anterior comandos en AMPL
+reset;
+# Cargar el modelo
+model caminsMinims.mod;
+# Cargar los datos
+data caminsMinims.dat;
+# Indicación a ampl de que se quiere utilizar como solver: CPLEX
+option solver './cplex';
+#Resolver
+solve;
+# Mostrar los resultados
+display coste_total;
+display x;
