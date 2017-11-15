@@ -1,1 +1,1 @@
-while (iout == 0)  niter = niter + 1;  [vb, vn, xb, z, iout] = simplexP_iter(c, A, b, vb, vn, xb, z)
+% simplex primalfunction [vb, xb, z, r] = simplexP(c, A, b)vb = [3, 4, 5];vn = [1, 2];xb = A(:, vb)^(-1)*bz = c(vb)'*xb;format long ;iout = 0;niter = 0;while (iout == 0)  display("iteració ")  niter = niter + 1  [vb, vn, xb, z, iout] = simplexP_iter(c, A, b, vb, vn, xb, z);  ioutendwhile;endfunction;
