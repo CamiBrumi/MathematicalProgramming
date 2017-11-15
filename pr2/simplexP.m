@@ -1,0 +1,1 @@
+while (iout == 0)  niter = niter + 1;  [vb, vn, xb, z, iout] = simplexP_iter(c, A, b, vb, vn, xb, z)
