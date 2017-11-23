@@ -1,0 +1,14 @@
+-----CONJUNT DE DADES 11, PL 3, REGLA DE BLAND-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 1, B(p) = 30, theta* = 0.62338, z = 725.6623
+  Iteracio 2    iout = 0, q = 2, B(p) = 29, theta* = 0.015848, z = 720.3794
+  Iteracio 3    iout = 0, q = 6, B(p) = 21, theta* = 0.071854, z = 716.3217
+  Iteracio 4    iout = 0, q = 9, B(p) = 2, theta* = 0.041615, z = 715.0163
+  Iteracio 5    iout = 0, q = 16, B(p) = 26, theta* = 124.1536, z = 590.8627
+  Iteracio 6    iout = 0, q = 7, B(p) = 28, theta* = 0.14403, z = 589.2968
+  Iteracio 7    iout = 0, q = 12, B(p) = 7, theta* = 0.17151, z = 583.5399
+  Iteracio 8    iout = 0, q = 2, B(p) = 9, theta* = 0.035717, z = 583.5172
+  Iteracio 9    iout = 0, q = 18, B(p) = 12, theta* = 13.4604, z = 578.5593
+  Iteracio 10    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 578.5593
+Solucio basica factible de fase I trobada, iteracio 10
+El problema original es infactible.

@@ -1,0 +1,17 @@
+-----CONJUNT DE DADES 33, PL 3, REGLA DE BLAND-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 1, B(p) = 28, theta* = 0.065789, z = 1613.3947
+  Iteracio 2    iout = 0, q = 2, B(p) = 30, theta* = 0.17302, z = 1590.8065
+  Iteracio 3    iout = 0, q = 3, B(p) = 1, theta* = 0.070926, z = 1575.7385
+  Iteracio 4    iout = 0, q = 4, B(p) = 2, theta* = 0.20512, z = 1535.1405
+  Iteracio 5    iout = 0, q = 7, B(p) = 4, theta* = 0.18754, z = 1530.1267
+  Iteracio 6    iout = 0, q = 11, B(p) = 7, theta* = 0.42591, z = 1400.7535
+  Iteracio 7    iout = 0, q = 14, B(p) = 3, theta* = 0.048193, z = 1400.7181
+  Iteracio 8    iout = 0, q = 16, B(p) = 26, theta* = 111.9084, z = 1288.8096
+  Iteracio 9    iout = 0, q = 3, B(p) = 14, theta* = 0.053156, z = 1288.7362
+  Iteracio 10    iout = 0, q = 17, B(p) = 27, theta* = 135.5143, z = 1153.2219
+  Iteracio 11    iout = 0, q = 10, B(p) = 3, theta* = 0.02852, z = 1151.2282
+  Iteracio 12    iout = 0, q = 19, B(p) = 29, theta* = 67.1319, z = 1084.0963
+  Iteracio 13    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 1084.0963
+Solucio basica factible de fase I trobada, iteracio 13
+El problema original es infactible.

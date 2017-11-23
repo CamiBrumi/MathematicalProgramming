@@ -1,0 +1,43 @@
+-----CONJUNT DE DADES 33, PL 1, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 10, B(p) = 24, theta* = 0.625, z = 2006
+  Iteracio 2    iout = 0, q = 12, B(p) = 27, theta* = 0.25526, z = 1809.7055
+  Iteracio 3    iout = 0, q = 1, B(p) = 23, theta* = 0.0041454, z = 1804.8546
+  Iteracio 4    iout = 0, q = 7, B(p) = 22, theta* = 0.028334, z = 1782.8382
+  Iteracio 5    iout = 0, q = 14, B(p) = 30, theta* = 0.19842, z = 1296.9074
+  Iteracio 6    iout = 0, q = 3, B(p) = 26, theta* = 0.228, z = 1210.2844
+  Iteracio 7    iout = 0, q = 4, B(p) = 14, theta* = 0.27129, z = 1094.1636
+  Iteracio 8    iout = 0, q = 11, B(p) = 29, theta* = 0.018143, z = 972.7171
+  Iteracio 9    iout = 0, q = 5, B(p) = 11, theta* = 0.031638, z = 960.909
+  Iteracio 10    iout = 0, q = 6, B(p) = 21, theta* = 0.16115, z = 779.7943
+  Iteracio 11    iout = 0, q = 11, B(p) = 12, theta* = 0.63298, z = 399.9176
+  Iteracio 12    iout = 0, q = 9, B(p) = 28, theta* = 0.28964, z = 278.1005
+  Iteracio 13    iout = 0, q = 12, B(p) = 25, theta* = 0.34304, z = 0
+  Iteracio 14    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 0
+Solucio basica factible de fase I trobada, iteracio 14
+Simplex Fase II
+  Iteracio 1    iout = 0, q = 14, B(p) = 10, theta* = 1.6519, z = 110.4695
+  Iteracio 2    iout = 0, q = 18, B(p) = 3, theta* = 271.7075, z = 36.6735
+  Iteracio 3    iout = 0, q = 10, B(p) = 5, theta* = 1.0018, z = -16.0758
+  Iteracio 4    iout = 0, q = 20, B(p) = 6, theta* = 56.644, z = -31.5472
+  Iteracio 5    iout = 0, q = 3, B(p) = 11, theta* = 0.9966, z = -36.6716
+  Iteracio 6    iout = 0, q = 17, B(p) = 7, theta* = 90.101, z = -53.28
+  Iteracio 7    iout = 0, q = 11, B(p) = 10, theta* = 0.81145, z = -71.6942
+  Iteracio 8    iout = 0, q = 16, B(p) = 3, theta* = 25.0702, z = -75.5528
+  Iteracio 9    iout = 0, q = 10, B(p) = 20, theta* = 1.8895, z = -91.228
+  Iteracio 10    iout = 0, q = 19, B(p) = 14, theta* = 87.1324, z = -109.6022
+  Iteracio 11    iout = 0, q = 7, B(p) = 10, theta* = 0.3816, z = -133.8826
+  Iteracio 12    iout = 2, q = 0, B(p) = 0, theta* = 0, z = -133.8826
+Solucio basica factible trobada, iteracio 12
+vb =
+
+    7   17    1   19   12   18   16    9   11    4
+
+xb =
+
+     0.382   511.173     5.063   287.238     4.835   624.956   491.979     1.897     1.591     0.476
+
+z = -133.883
+rq =
+
+   40.1260   86.5821   65.2014   52.0091    0.2331   34.8785   17.6243    0.0137   44.0254   46.1890
