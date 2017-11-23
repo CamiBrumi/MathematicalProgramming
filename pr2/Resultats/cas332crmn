@@ -1,0 +1,46 @@
+-----CONJUNT DE DADES 33, PL 2, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 5, B(p) = 21, theta* = 1.1753, z = 2148.0103
+  Iteracio 2    iout = 0, q = 6, B(p) = 24, theta* = 1.133, z = 1413.9429
+  Iteracio 3    iout = 0, q = 4, B(p) = 27, theta* = 0.062513, z = 1365.0851
+  Iteracio 4    iout = 0, q = 8, B(p) = 29, theta* = 0.55921, z = 928.6327
+  Iteracio 5    iout = 0, q = 7, B(p) = 28, theta* = 0.021671, z = 909.0914
+  Iteracio 6    iout = 0, q = 12, B(p) = 30, theta* = 0.27273, z = 803.4627
+  Iteracio 7    iout = 0, q = 10, B(p) = 23, theta* = 0.49811, z = 587.882
+  Iteracio 8    iout = 0, q = 3, B(p) = 6, theta* = 0.35971, z = 297.5597
+  Iteracio 9    iout = 0, q = 14, B(p) = 26, theta* = 0.27001, z = 193.8648
+  Iteracio 10    iout = 0, q = 2, B(p) = 22, theta* = 0.59164, z = 23.9209
+  Iteracio 11    iout = 0, q = 9, B(p) = 25, theta* = 0.084521, z = 0
+  Iteracio 12    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 0
+Solucio basica factible de fase I trobada, iteracio 12
+Simplex Fase II
+  Iteracio 1    iout = 0, q = 13, B(p) = 9, theta* = 0.21546, z = -304.2116
+  Iteracio 2    iout = 0, q = 6, B(p) = 14, theta* = 0.4667, z = -433.068
+  Iteracio 3    iout = 0, q = 18, B(p) = 12, theta* = 60.7186, z = -477.3105
+  Iteracio 4    iout = 0, q = 11, B(p) = 10, theta* = 0.31658, z = -483.3705
+  Iteracio 5    iout = 0, q = 20, B(p) = 11, theta* = 62.4712, z = -545.1838
+  Iteracio 6    iout = 0, q = 12, B(p) = 2, theta* = 0.31866, z = -577.6367
+  Iteracio 7    iout = 0, q = 1, B(p) = 12, theta* = 0.35061, z = -578.1142
+  Iteracio 8    iout = 0, q = 19, B(p) = 1, theta* = 38.739, z = -603.2957
+  Iteracio 9    iout = 0, q = 11, B(p) = 13, theta* = 0.7672, z = -658.9605
+  Iteracio 10    iout = 0, q = 2, B(p) = 3, theta* = 0.042738, z = -659.8515
+  Iteracio 11    iout = 2, q = 0, B(p) = 0, theta* = 0, z = -659.8515
+Solucio basica factible trobada, iteracio 11
+vb =
+
+    5   19   20    2   11    6    4    7    8   18
+
+xb =
+
+ Columns 1 through 9:
+
+     6.3586   188.3716   160.1023     0.0427     0.8599     0.6387     3.8565     0.2054     2.7215
+
+ Column 10:
+
+   406.1112
+
+z = -659.852
+rq =
+
+    60.912   187.649   132.506    91.603     0.408     0.528     0.113     9.915     4.914    65.302

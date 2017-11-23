@@ -1,0 +1,40 @@
+-----CONJUNT DE DADES 11, PL 1, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 3, B(p) = 30, theta* = 0.38144, z = 3116
+  Iteracio 2    iout = 0, q = 9, B(p) = 29, theta* = 0.79603, z = 2568.3281
+  Iteracio 3    iout = 0, q = 8, B(p) = 26, theta* = 1.5572, z = 1544.9977
+  Iteracio 4    iout = 0, q = 11, B(p) = 24, theta* = 0.41408, z = 1188.865
+  Iteracio 5    iout = 0, q = 4, B(p) = 21, theta* = 0.30289, z = 1041.8107
+  Iteracio 6    iout = 0, q = 14, B(p) = 22, theta* = 0.49938, z = 737.9155
+  Iteracio 7    iout = 0, q = 6, B(p) = 27, theta* = 0.45888, z = 533.6416
+  Iteracio 8    iout = 0, q = 1, B(p) = 23, theta* = 0.83424, z = 264.5917
+  Iteracio 9    iout = 0, q = 10, B(p) = 25, theta* = 0.78, z = 52.7328
+  Iteracio 10    iout = 0, q = 7, B(p) = 28, theta* = 0.51557, z = 0
+  Iteracio 11    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 0
+Solucio basica factible de fase I trobada, iteracio 11
+Simplex Fase II
+  Iteracio 1    iout = 0, q = 13, B(p) = 4, theta* = 2.0546, z = -318.1695
+  Iteracio 2    iout = 0, q = 2, B(p) = 8, theta* = 0.66768, z = -335.5557
+  Iteracio 3    iout = 0, q = 16, B(p) = 10, theta* = 227.0763, z = -555.6034
+  Iteracio 4    iout = 0, q = 12, B(p) = 11, theta* = 1.595, z = -591.0942
+  Iteracio 5    iout = 0, q = 18, B(p) = 3, theta* = 89.2035, z = -715.9426
+  Iteracio 6    iout = 0, q = 10, B(p) = 7, theta* = 0.067706, z = -835.7955
+  Iteracio 7    iout = 0, q = 11, B(p) = 10, theta* = 0.11283, z = -842.9138
+  Iteracio 8    iout = 0, q = 8, B(p) = 12, theta* = 0.13581, z = -843.7283
+  Iteracio 9    iout = 0, q = 17, B(p) = 13, theta* = 1.9925, z = -844.8043
+  Iteracio 10    iout = 0, q = 12, B(p) = 11, theta* = 0.11969, z = -846.555
+  Iteracio 11    iout = 0, q = 19, B(p) = 8, theta* = 20.2262, z = -847.1681
+  Iteracio 12    iout = 2, q = 0, B(p) = 0, theta* = 0, z = -847.1681
+Solucio basica factible trobada, iteracio 12
+vb =
+
+   17   14    1   19   16    2    6   12    9   18
+
+xb =
+
+     3.922     1.180     3.342    20.226   468.294     4.969     1.310     0.126     2.722   183.537
+
+z = -847.168
+rq =
+
+    17.485    73.596   124.487   247.563     0.743   147.875    12.295   117.068     1.656     0.401

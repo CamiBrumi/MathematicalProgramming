@@ -1,0 +1,13 @@
+-----CONJUNT DE DADES 33, PL 3, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 10, B(p) = 28, theta* = 0.05, z = 1599.25
+  Iteracio 2    iout = 0, q = 11, B(p) = 30, theta* = 0.42959, z = 1402.82
+  Iteracio 3    iout = 0, q = 14, B(p) = 10, theta* = 0.048193, z = 1400.7181
+  Iteracio 4    iout = 0, q = 16, B(p) = 26, theta* = 111.9084, z = 1288.8096
+  Iteracio 5    iout = 0, q = 3, B(p) = 14, theta* = 0.053156, z = 1288.7362
+  Iteracio 6    iout = 0, q = 17, B(p) = 27, theta* = 135.5143, z = 1153.2219
+  Iteracio 7    iout = 0, q = 10, B(p) = 3, theta* = 0.02852, z = 1151.2282
+  Iteracio 8    iout = 0, q = 19, B(p) = 29, theta* = 67.1319, z = 1084.0963
+  Iteracio 9    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 1084.0963
+Solucio basica factible de fase I trobada, iteracio 9
+El problema original es infactible

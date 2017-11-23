@@ -1,0 +1,48 @@
+-----CONJUNT DE DADES 33, PL 1, REGLA DE BLAND-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 1, B(p) = 24, theta* = 0.42683, z = 2193.378
+  Iteracio 2    iout = 0, q = 2, B(p) = 26, theta* = 0.71095, z = 2110.0059
+  Iteracio 3    iout = 0, q = 3, B(p) = 2, theta* = 0.56592, z = 2069.1722
+  Iteracio 4    iout = 0, q = 4, B(p) = 29, theta* = 0.77959, z = 1707.7779
+  Iteracio 5    iout = 0, q = 5, B(p) = 23, theta* = 0.67971, z = 1287.4561
+  Iteracio 6    iout = 0, q = 2, B(p) = 21, theta* = 0.5718, z = 1082.6447
+  Iteracio 7    iout = 0, q = 7, B(p) = 2, theta* = 0.65192, z = 802.8555
+  Iteracio 8    iout = 0, q = 8, B(p) = 22, theta* = 0.45351, z = 636.4031
+  Iteracio 9    iout = 0, q = 6, B(p) = 28, theta* = 0.36906, z = 580.349
+  Iteracio 10    iout = 0, q = 9, B(p) = 6, theta* = 0.73586, z = 447.0782
+  Iteracio 11    iout = 0, q = 10, B(p) = 27, theta* = 0.11825, z = 389.5286
+  Iteracio 12    iout = 0, q = 6, B(p) = 9, theta* = 0.77138, z = 333.9675
+  Iteracio 13    iout = 0, q = 11, B(p) = 30, theta* = 0.094057, z = 325.2024
+  Iteracio 14    iout = 0, q = 9, B(p) = 8, theta* = 0.28964, z = 278.1005
+  Iteracio 15    iout = 0, q = 12, B(p) = 25, theta* = 0.34304, z = 0
+  Iteracio 16    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 0
+Solucio basica factible de fase I trobada, iteracio 16
+Simplex Fase II
+  Iteracio 1    iout = 0, q = 14, B(p) = 10, theta* = 1.6519, z = 110.4695
+  Iteracio 2    iout = 0, q = 16, B(p) = 6, theta* = 219.288, z = 107.1492
+  Iteracio 3    iout = 0, q = 10, B(p) = 14, theta* = 1.4279, z = 106.6633
+  Iteracio 4    iout = 0, q = 17, B(p) = 10, theta* = 426.9536, z = 71.7137
+  Iteracio 5    iout = 0, q = 2, B(p) = 4, theta* = 0.22359, z = 69.9901
+  Iteracio 6    iout = 0, q = 18, B(p) = 2, theta* = 85.9404, z = 44.3584
+  Iteracio 7    iout = 0, q = 6, B(p) = 7, theta* = 0.49614, z = 19.4772
+  Iteracio 8    iout = 0, q = 4, B(p) = 3, theta* = 0.25687, z = 5.2539
+  Iteracio 9    iout = 0, q = 10, B(p) = 5, theta* = 1.4771, z = -62.3679
+  Iteracio 10    iout = 0, q = 3, B(p) = 11, theta* = 0.28631, z = -85.7035
+  Iteracio 11    iout = 0, q = 14, B(p) = 6, theta* = 0.0028687, z = -85.8493
+  Iteracio 12    iout = 0, q = 11, B(p) = 3, theta* = 0.20674, z = -91.228
+  Iteracio 13    iout = 0, q = 19, B(p) = 14, theta* = 87.1324, z = -109.6022
+  Iteracio 14    iout = 0, q = 7, B(p) = 10, theta* = 0.3816, z = -133.8826
+  Iteracio 15    iout = 2, q = 0, B(p) = 0, theta* = 0, z = -133.8826
+Solucio basica factible trobada, iteracio 15
+vb =
+
+   19    9    7    1   12    4   17   16   18   11
+
+xb =
+
+   287.238     1.897     0.382     5.063     4.835     0.476   511.173   491.979   624.956     1.591
+
+z = -133.883
+rq =
+
+   34.8785   86.5821   65.2014   46.1890    0.2331   17.6243   52.0091   40.1260   44.0254    0.0137

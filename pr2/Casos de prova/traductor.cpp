@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
 /*
-PROGRAMA QUE TRADUEIX EL FORMAT DE DADES DE L'HEREDIA A MATLAB
+PROGRAMA QUE TRADUEIX EL FORMAT DE DADES DE L'ENUNCIAT A MATLAB
  */
 
 string act; cin >> act;

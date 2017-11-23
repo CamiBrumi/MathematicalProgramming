@@ -1,0 +1,12 @@
+-----CONJUNT DE DADES 11, PL 3, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 9, B(p) = 21, theta* = 0.031579, z = 912.2316
+  Iteracio 2    iout = 0, q = 8, B(p) = 29, theta* = 0.093127, z = 831.1017
+  Iteracio 3    iout = 0, q = 6, B(p) = 28, theta* = 0.1129, z = 795.2332
+  Iteracio 4    iout = 0, q = 1, B(p) = 30, theta* = 0.32797, z = 719.2192
+  Iteracio 5    iout = 0, q = 18, B(p) = 8, theta* = 11.5817, z = 703.4345
+  Iteracio 6    iout = 0, q = 2, B(p) = 9, theta* = 0.048643, z = 702.8614
+  Iteracio 7    iout = 0, q = 16, B(p) = 26, theta* = 124.3021, z = 578.5593
+  Iteracio 8    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 578.5593
+Solucio basica factible de fase I trobada, iteracio 8
+El problema original es infactible.

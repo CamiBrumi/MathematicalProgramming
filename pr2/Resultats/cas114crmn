@@ -1,0 +1,47 @@
+-----CONJUNT DE DADES 11, PL 4, REGLA DE CRMN-----
+Simplex Fase I
+  Iteracio 1    iout = 0, q = 9, B(p) = 27, theta* = 6.7805, z = 2270.8049
+  Iteracio 2    iout = 0, q = 14, B(p) = 25, theta* = 1.5095, z = 1396.248
+  Iteracio 3    iout = 0, q = 11, B(p) = 32, theta* = 1.8411, z = 519.2038
+  Iteracio 4    iout = 0, q = 3, B(p) = 29, theta* = 0.62921, z = 346.6479
+  Iteracio 5    iout = 0, q = 1, B(p) = 30, theta* = 0.040863, z = 326.3629
+  Iteracio 6    iout = 0, q = 7, B(p) = 28, theta* = 0.064048, z = 289.979
+  Iteracio 7    iout = 0, q = 8, B(p) = 33, theta* = 0.92042, z = 99.6601
+  Iteracio 8    iout = 0, q = 13, B(p) = 31, theta* = 0.28437, z = 58.343
+  Iteracio 9    iout = 0, q = 6, B(p) = 34, theta* = 0.20693, z = 24.1961
+  Iteracio 10    iout = 0, q = 2, B(p) = 26, theta* = 0.20932, z = 0
+  Iteracio 11    iout = 2, q = 0, B(p) = 0, theta* = 0, z = 0
+Solucio basica factible de fase I trobada, iteracio 11
+Simplex Fase II
+  Iteracio 1    iout = 0, q = 5, B(p) = 6, theta* = 1.6006, z = -428.8083
+  Iteracio 2    iout = 0, q = 12, B(p) = 1, theta* = 0.33941, z = -535.2008
+  Iteracio 3    iout = 0, q = 10, B(p) = 9, theta* = 0.53395, z = -700.3305
+  Iteracio 4    iout = 0, q = 6, B(p) = 14, theta* = 0.55565, z = -755.9051
+  Iteracio 5    iout = 0, q = 4, B(p) = 10, theta* = 1.1964, z = -849.9858
+  Iteracio 6    iout = 0, q = 1, B(p) = 3, theta* = 0.56569, z = -929.9068
+  Iteracio 7    iout = 0, q = 15, B(p) = 13, theta* = 50.7218, z = -977.4781
+  Iteracio 8    iout = 0, q = 17, B(p) = 1, theta* = 1.5301, z = -979.3598
+  Iteracio 9    iout = 0, q = 13, B(p) = 15, theta* = 0.92777, z = -1029.5539
+  Iteracio 10    iout = 0, q = 14, B(p) = 8, theta* = 0.45942, z = -1072.7406
+  Iteracio 11    iout = 0, q = 10, B(p) = 12, theta* = 0.27856, z = -1092.7377
+  Iteracio 12    iout = 0, q = 16, B(p) = 10, theta* = 22.8513, z = -1111.8363
+  Iteracio 13    iout = 0, q = 8, B(p) = 14, theta* = 0.53067, z = -1115.9739
+  Iteracio 14    iout = 0, q = 18, B(p) = 8, theta* = 26.7564, z = -1167.6621
+  Iteracio 15    iout = 0, q = 23, B(p) = 16, theta* = 160.9485, z = -1305.3839
+  Iteracio 16    iout = 0, q = 8, B(p) = 13, theta* = 1.2168, z = -1323.3863
+  Iteracio 17    iout = 0, q = 24, B(p) = 11, theta* = 90.5023, z = -1537.8767
+  Iteracio 18    iout = 0, q = 13, B(p) = 8, theta* = 0.69656, z = -1560.1639
+  Iteracio 19    iout = 0, q = 15, B(p) = 13, theta* = 33.9898, z = -1616.6493
+  Iteracio 20    iout = 0, q = 21, B(p) = 2, theta* = 83.283, z = -1795.8218
+  Iteracio 21    iout = 0, q = 1, B(p) = 6, theta* = 0.30355, z = -1873.539
+  Iteracio 22    iout = 0, q = 12, B(p) = 5, theta* = 6.9788, z = -2811.2876
+  Iteracio 23    iout = 0, q = 8, B(p) = 7, theta* = 1.4193, z = -2904.9248
+  Iteracio 24    iout = 0, q = 19, B(p) = 1, theta* = 14.6312, z = -2971.4888
+  Iteracio 25    iout = 0, q = 7, B(p) = 8, theta* = 1.018, z = -3039.3625
+  Iteracio 26    iout = 0, q = 20, B(p) = 7, theta* = 95.7367, z = -3494.9919
+  Iteracio 27    iout = 0, q = 5, B(p) = 12, theta* = 3.8524, z = -3631.7353
+  Iteracio 28    iout = 0, q = 22, B(p) = 5, theta* = 441.4167, z = -5740.5833
+  Iteracio 29    iout = 0, q = 11, B(p) = 15, theta* = 66.2667, z = -7645.75
+  Iteracio 30    iout = 0, q = 16, B(p) = 4, theta* = 114.7143, z = -9395.1429
+  Iteracio 31    iout = 3, q = 0, B(p) = 0, theta* = 0, z = -9395.1429
+El problema es il.limitat.
