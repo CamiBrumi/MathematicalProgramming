@@ -26,4 +26,7 @@ solve;
 
 
 # Mostrar los resultados
-display x;
+#option omit_zero_rows 1;
+
+#display x;
+display {k in JORNADES}: {i in EQUIPS, j in EQUIPS} x[i,j,k];
