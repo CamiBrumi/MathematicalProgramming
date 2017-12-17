@@ -1,0 +1,29 @@
+# Borrar los anterior comandos en AMPL
+reset;
+
+# Cargar el modelo
+model prac.mod;
+
+# Cargar los datos
+data prac.dat;
+
+
+let {i in DIV1, j in i+1..n/2, k in 2..r*(n/2-1)+s*(n/2)} CPreferencia[i, j, k] := 2^(k-2);
+let { i in DIV2, j in i+1..n, k in 2..r*(n/2-1)+s*(n/2)} CPreferencia[i, j, k] := 2^(k-2);
+#display CPreferencia;
+
+
+# Indicación a ampl de que se quiere utilizar como solver: CPLEX
+option solver './cplex';
+
+
+#Resolver
+solve;
+
+#expand x[6,1,4];
+
+
+
+
+# Mostrar los resultados
+display x;
