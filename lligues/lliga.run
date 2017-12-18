@@ -2,10 +2,10 @@
 reset;
 
 # Cargar el modelo
-model prac.mod;
+model C:\Users\fme\Downloads\lliga.mod;
 
 # Cargar los datos
-data prac.dat;
+data C:\Users\fme\Downloads\lliga.dat;
 
 
 let {i in DIV1, j in i+1..n/2, k in 2..r*(n/2-1)+s*(n/2)} CPreferencia[i, j, k] := 2^(k-2);
@@ -13,7 +13,7 @@ let { i in DIV2, j in i+1..n, k in 2..r*(n/2-1)+s*(n/2)} CPreferencia[i, j, k] :
 #display CPreferencia;
 
 
-# IndicaciÃ³n a ampl de que se quiere utilizar como solver: CPLEX
+# Indicación a ampl de que se quiere utilizar como solver: CPLEX
 option solver './cplex';
 
 
@@ -26,7 +26,7 @@ solve;
 
 
 # Mostrar los resultados
-#option omit_zero_rows 1;
+option omit_zero_rows 1;
 
 #display x;
 display {k in JORNADES}: {i in EQUIPS, j in EQUIPS} x[i,j,k];
