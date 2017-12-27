@@ -1,4 +1,4 @@
-param n:=500;
+param n:=50;
 param a:=100;
 param b:=100;
 param k:=0.22587697572;

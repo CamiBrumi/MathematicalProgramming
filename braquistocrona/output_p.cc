@@ -25,8 +25,9 @@ int main(){
     if (i != 0) cout << " ," << vy[i];
     else cout << vy[i];
   }
-
+  cout << "];" << endl;
+  /*
   cout << "];" << endl << "x = [" << 0;
   for (int i = 1; i < count; ++i) cout << " ," << i;
-  cout << "];" << endl;
+  cout << "];" << endl; */
 }

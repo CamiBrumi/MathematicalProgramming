@@ -25,4 +25,4 @@ solve;
 # Mostrar los resultados
 #option omit_zero_rows 1;
 
-display y >/home/camelia/Desktop/io/braquistocrona/var3/braq.txt;
+display x,y>/home/camelia/Desktop/io/braquistocrona/var3/braq.txt;
