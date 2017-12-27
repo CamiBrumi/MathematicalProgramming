@@ -24,4 +24,4 @@ solve;
 # Mostrar los resultados
 #option omit_zero_rows 1;
 
-display y;
+display y >/home/camelia/Desktop/io/braquistocrona/braq.txt;
