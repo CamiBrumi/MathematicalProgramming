@@ -3,11 +3,11 @@ param n; # punts
 param a; # punt finl x
 param b; # punt final y
 set PUNTS := 0..n; #índexos dels punts
-param x{PUNTS} default 0; #partició
+param y{PUNTS} default 10^(-12); #partició
 param k; #1/sqrt(2*g)
 
  
-var y {i in PUNTS}  >= 10^(-12), <=b, := (a*i)/n; #ŀes y_i = f(x_i);
+var x {i in PUNTS}  >= 10^(-12), <=b, := (a*i)/n; #ŀes y_i = f(x_i);
 
 #Funcio objectiu
 
@@ -19,6 +19,6 @@ minimize discretitzacio:
 
 
 #Subjecta a:
-subject to inicial: y[0] = 10^(-12);
-subject to final:   y[n] = b;
+subject to inicial: x[0] = 10^(-12);
+subject to final:   x[n] = a;
 
