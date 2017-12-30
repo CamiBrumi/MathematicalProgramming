@@ -2,10 +2,12 @@
 reset;
 
 # Cargar el modelo
-model C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.mod;
+#model C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.mod;
+model /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var3/braq.mod;
 
 # Cargar los datos
-data C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.dat;
+#data C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.dat;
+data /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var3/braq.dat;
 
 
 # Indicacion a ampl de que se quiere utilizar como solver: MINOS
@@ -22,4 +24,6 @@ solve;
 # Mostrar los resultados
 #option omit_zero_rows 1;
 
-display x,y >C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.txt;
+display x > /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var3/braqx.txt;
+display y > /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var3/braqy.txt;
+#display x,y >C:\Users\Leo\Downloads\io\braquistocrona\var3\braq.txt;
