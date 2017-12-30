@@ -9,8 +9,8 @@ model /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var1/braq.mod;
 #data C:\Users\Leo\Downloads\io\braquistocrona\var1\braq.dat;
 data /Users/camibrumar/Desktop/mates2017:18/PM/io/braquistocrona/var1/braq.dat;
 
-let {i in PUNTS} x[i] := (a*i)/n; #fer la particio
-#let {i in PUNTS} x[i] := a*(i/n)^2; #fer la particio
+#let {i in PUNTS} x[i] := (a*i)/n; #fer la particio
+let {i in PUNTS} x[i] := a*(i/n)^2; #fer la particio
 
 # Indicacion a ampl de que se quiere utilizar como solver: MINOS
 option solver './minos';
