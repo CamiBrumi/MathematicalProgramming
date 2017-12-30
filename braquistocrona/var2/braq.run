@@ -1,0 +1,27 @@
+# Borrar los anterior comandos en AMPL
+reset;
+
+# Cargar el modelo
+model C:\Users\Leo\Downloads\io\braquistocrona\var1\braq.mod;
+
+# Cargar los datos
+data C:\Users\Leo\Downloads\io\braquistocrona\var1\braq.dat;
+
+
+let {i in PUNTS} x[i] := (a*i)/n; #fer la particio
+
+# Indicacion a ampl de que se quiere utilizar como solver: MINOS
+option solver './minos';
+
+
+#Resolver
+option minos_options 'superbasics_limit= 1000';
+solve;
+
+#expand x[6,1,4];
+
+
+# Mostrar los resultados
+#option omit_zero_rows 1;
+
+display x,y >C:\Users\Leo\Downloads\io\braquistocrona\var1\braq.txt;
